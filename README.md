@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aravind Krishna</h1>
-<h3 align="center">A Passionate MERN Stack Developer from Thrissur, Kerala, India.🙂 </h3>
+<h3 align="center">A Passionate MERN Stack Developer from Thrissur, Kerala.🙂 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akrishna777&label=Profile%20views&color=0e75b6&style=flat" alt="akrishna777" /> </p>
 
